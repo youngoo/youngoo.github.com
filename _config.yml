@@ -10,9 +10,9 @@ relative_permalinks: true
 
 # Setup
 title:               Stand Alone Complex
-tagline:             'just words'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+tagline:             ''
+description:         'Hello Stranger!'
+url:                 http://youngoo.github.io/
 baseurl:             http://youngoo.github.io/
 paginate:            5
 
