@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一切重新开始
+title: Start Over
 ---
 
-如题
+Let's talk about something interesting.
